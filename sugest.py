@@ -1,4 +1,5 @@
-#Keyword Research Tool
+# Keyword Research Tool
+# Official Blog : https://www.blog-gan.org
 import requests
 from time import time as timer  
 import time
